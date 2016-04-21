@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02bcd5</color>
+    <color name="colorPrimaryDark">#02acc4</color>
+    <color name="colorAccent">#ccda3d</color>
+    <color name="background_material_dark">#eaeaea</color>
+    <color name="black">#17f4e9</color>
+    <color name="primary_text_material_dark">#100000</color>
+    <color name="secondary_text_material_dark">#888888</color>
+    <color name="Myveryowncolor">#FFFFFFFF</color>
+    <color name="SmallTextColor">#FFCCDA3D</color>
+</resources>

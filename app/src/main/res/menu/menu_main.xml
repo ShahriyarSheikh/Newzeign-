@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rssreader.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"
+        android:onClick="onClickSettings"/>
+    <item
+        android:id="@+id/about_us"
+        android:orderInCategory="200"
+        android:title="About Newzeign"
+        app:showAsAction="never"
+        android:onClick="onClickAboutUs"/>
+</menu>
